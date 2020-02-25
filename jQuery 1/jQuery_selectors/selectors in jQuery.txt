@@ -1,0 +1,13 @@
+we use:
+$("selector_goes_here")
+we select then manipulate
+//to select img tags => $("img")
+
+//to select all elements with class 'sale'
+=> $(".sale")
+
+//to select element with id "bonus"
+=> $("#bonus")
+
+//to select all 'a' tags inside of li's
+=> $("li a")
