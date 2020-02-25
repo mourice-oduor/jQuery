@@ -1,0 +1,7 @@
+some of the jQuery effects;
+slideDown()	Slides-down (shows) the selected elements
+slideToggle()	Toggles between the slideUp() and slideDown() methods
+slideUp()	Slides-up (hides) the selected elements
+stop()	Stops the currently running animation for the selected elements
+check on https://www.w3schools.com/jquery/jquery_ref_effects.asp
+https://api.jquery.com/category/effects/
